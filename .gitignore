@@ -11,3 +11,6 @@ obj/
 *.layout
 
 .vscode
+
+.txt
+.dat
